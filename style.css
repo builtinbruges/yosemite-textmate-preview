@@ -113,6 +113,11 @@
 	line-height: 1.5em;
 }
 
+.builtinbruges li > p + ul,
+.builtinbruges li > p + ol {
+	margin-top: -1ex;
+}
+
 .builtinbruges .pro_table {
 	border-top: 1px solid #919699;
 	border-left: 1px solid #919699;
