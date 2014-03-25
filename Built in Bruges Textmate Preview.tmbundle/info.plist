@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>oreg@ohvygvaoehtrf.pbz</string>
+	<key>contactName</key>
+	<string>Bert Devriese</string>
+	<key>description</key>
+	<string>Bundle containing the Built in Bruges Textmate Web Preview Theme, which is an alternative web preview theme for Textmate 2</string>
+	<key>name</key>
+	<string>Built in Bruges Textmate Preview</string>
+	<key>uuid</key>
+	<string>6CF3479A-1AB5-4B39-9B26-95E0FAC764D7</string>
+</dict>
+</plist>

@@ -10,10 +10,10 @@ I was getting pretty sick of the default "bright" markdown preview in TextMate2 
 
 #### Installation
 
-	$ cd ~/Library/Application\ Support/TextMate/Managed/Bundles/Themes.tmbundle/Support/web-themes
-	$ git clone https://github.com/builtinbruges/builtinbruges-textmate-preview.git builtinbruges
-
-Done!
+- Click "Download Zip" to download this repository to your computer
+- Unzip the package
+- Double click the `Built in Bruges Textmate Preview.tmbundle` file. TextMate shoudl ask you if you'd like it to install the bundle.
+- Done! "Built in Bruges" is now available in the web preview window.
 
 #### Contributing
 
