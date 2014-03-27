@@ -131,6 +131,10 @@
 	border-bottom: 1px solid #919699;
 	border-right: 1px solid #919699;
 }
+.builtinbruges hr {
+	border-color: #ddd;
+	margin: 20px 0;
+}
 .builtinbruges .footnote {
 	color: #525151;
 }
