@@ -1,18 +1,17 @@
-### Built in Bruges Textmate Preview Theme
+### Yosemite Textmate2 Preview Theme
 
-I was getting pretty sick of the default "bright" markdown preview in TextMate2 so I decided to create my own theme.
+I was getting pretty sick of the default "bright" markdown preview in TextMate2 so I decided to create my own theme that matches the general OS X 10.10 Yosemite look and feel.
 
 #### Preview
 
-![Preview 1](http://f.cl.ly/items/0w3Q2r3z1t3Z0p2D1k2v/Screen%20Shot%202013-11-26%20at%2015.44.43.png)
-![Preview 2](http://f.cl.ly/items/443k2l0t0x0e0y351k42/Screen%20Shot%202013-11-26%20at%2015.44.47.png)
+![Preview](http://i.imgur.com/wO5FMyv.png)
 
 #### Installation
 
 - Click "Download Zip" to download this repository to your computer
 - Unzip the package
-- Double click the `Built in Bruges Textmate Preview.tmbundle` file. TextMate should ask you if you'd like it to install the bundle.
-- Done! "Built in Bruges" is now available in the web preview window.
+- Double click the `Yosemite Textmate2 Preview.tmbundle` file. TextMate should ask you if you'd like it to install the bundle.
+- Done! "Yosemite" is now available in the web preview window.
 
 #### Contributing
 

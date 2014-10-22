@@ -2,99 +2,99 @@
 /* = Common Stuff for all Commands = */
 /* ================================= */
 
-.builtinbruges {
+.yosemite {
 	font-family: 'Helvetica Neue', Helvetica, Verdana, sans-serif;
 	text-shadow: none !important;
 	line-height: 1.8em;
 }
 
-.builtinbruges #tm_webpreview_header {
+.yosemite #tm_webpreview_header {
 	color: #333;
 	background: rgba(255,255,255,.93);
 	border-bottom: 1px solid #ccc;
 	box-shadow: 0 0 10px #f9f9f9;
 	padding: 0 0 1em;
 }
-.builtinbruges #tm_webpreview_header .type {
+.yosemite #tm_webpreview_header .type {
 	color: #333;
 	right: 50px;
 	top: 2.5em;
 }
-.builtinbruges #tm_webpreview_header #theme_switcher {
+.yosemite #tm_webpreview_header #theme_switcher {
 	opacity: 1;
 	right: 50px;
 }
-.builtinbruges #tm_webpreview_header #teaser {
+.yosemite #tm_webpreview_header #teaser {
 	display: none;
 }
-.builtinbruges #gradient {
+.yosemite #gradient {
 	display: none;
 }
 
-.builtinbruges {
+.yosemite {
 	background: #FFF;
 	color: #000;
 }
-.builtinbruges a {
+.yosemite a {
 	color: #0D2681;
 }
 
-.builtinbruges h1 {
+.yosemite h1 {
 	font-size: 2.4em;
 	font-style: normal;
 	line-height: 1.2em;
 	margin: 0 0 .5em;
 }
-.builtinbruges h2 {
+.yosemite h2 {
 	font-size: 2em;
 	font-style: italic;
 	line-height: 1.2em;
 	margin: 0 0 .5em;
 }
-.builtinbruges h3 {
+.yosemite h3 {
 	font-size: 1.8em;
 	font-style: normal;
 	line-height: 1.2em;
 	margin: 0 0 .5em;
 }
-.builtinbruges h4 {
+.yosemite h4 {
 	font-size: 1.4em;
 	font-style: italic;
 	line-height: 1.2em;
 	margin: 0 0 .5em;
 }
-.builtinbruges h5 {
+.yosemite h5 {
 	font-size: 1.2em;
 	font-style: normal;
 	line-height: 1.2em;
 	margin: 0 0 .5em;
 }
-.builtinbruges h6 {
+.yosemite h6 {
 	font-size: 1em;
 	font-style: italic;
 	line-height: 1.2em;
 	margin: 0 0 .5em;
 }
-.builtinbruges a {
+.yosemite a {
 	color: #2A93DC;
 	text-decoration: none;
 	border-bottom: 1px solid rgba(42,147,220,.25);
 }
-.builtinbruges a:hover {
+.yosemite a:hover {
 	color: #448AC1;
 	border-bottom: 1px solid #448AC1;
 }
-.builtinbruges blockquote {
+.yosemite blockquote {
 	font-family: 'Helvetica Neue', Helvetica, Verdana, sans-serif;
 	border-left: .5em solid rgba(42,147,220,.25);
 	padding-left: 1em;
 	margin-left: 1em;
 }
-.builtinbruges code {
+.yosemite code {
 	font-family: 'Menlo', Consolas, 'Courier New', sans-serif;
 	color: #444;
 }
-.builtinbruges p > code {
+.yosemite p > code {
 	display: inline-block;
 	font-size: .85em;
 	line-height: 1.5em;
@@ -104,7 +104,7 @@
 	padding: 0 .2em;
 }
 
-.builtinbruges pre {
+.yosemite pre {
 	font-family: 'Menlo', Consolas, 'Courier New', sans-serif;
 	color: #444;
 	background-color: #fbfbfb;
@@ -113,41 +113,41 @@
 	line-height: 1.5em;
 }
 
-.builtinbruges li > p + ul,
-.builtinbruges li > p + ol {
+.yosemite li > p + ul,
+.yosemite li > p + ol {
 	margin-top: -1ex;
 }
 
-.builtinbruges .pro_table {
+.yosemite .pro_table {
 	border-top: 1px solid #919699;
 	border-left: 1px solid #919699;
 }
-.builtinbruges .pro_table th {
+.yosemite .pro_table th {
 	background: #E2E2E2;
 	border-bottom: 1px solid #919699;
 	border-right: 1px solid #919699;
 }
-.builtinbruges .pro_table td {
+.yosemite .pro_table td {
 	border-bottom: 1px solid #919699;
 	border-right: 1px solid #919699;
 }
-.builtinbruges hr {
+.yosemite hr {
 	border-color: #ddd;
 	margin: 20px 0;
 }
-.builtinbruges .footnote {
+.yosemite .footnote {
 	color: #525151;
 }
-.builtinbruges .footnote:before {
+.yosemite .footnote:before {
 	color: #525151;
 }
-.builtinbruges .footnote:after {
+.yosemite .footnote:after {
 	color: #525151;
 }
-.builtinbruges div.footnotes {
+.yosemite div.footnotes {
    background: #F0F0F0;
 }
 
-.builtinbruges .alternate {
+.yosemite .alternate {
 	background-color: #F0F0F0;
 }
